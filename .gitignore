@@ -1,0 +1,25 @@
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+
+# Local databases and data
+data/chroma_db/
+data/documents/
+
+# Environment variables and secrets
+.env
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+
+notes.txt
